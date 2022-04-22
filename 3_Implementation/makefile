@@ -4,10 +4,9 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/isr.c \
-src/sendChara.c \
-src/sendCommand.c \
-src/sendString.c \
+src/i2c.c\
+src/i2c_lcd.c\
+src/usart.c
 
 # All header file paths
 INC = -I inc
@@ -36,7 +35,7 @@ endif
 
 all:$(BUILD_DIR)
 # Compile the code and generate the ELF file
-	$(CC) -g -Wall -Os -mmcu=atmega32  $(INC) $(SRC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
+	$(CC) -g -Wall -Os -mmcu=atmega328  $(INC) $(SRC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
 
 $(BUILD_DIR):
 # Create directory to store the built files
