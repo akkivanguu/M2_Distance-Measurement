@@ -10,7 +10,12 @@ This application is based on sound wave detection. Sound waves are defined as lo
 [![Build CI-Linux](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml)
 # cpp check
 [![Cppcheck](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/c-cpp.yml)
+# Codiga
+![Quality](https://api.codiga.io/project/32998/score/svg)
 
+![Quality](https://api.codiga.io/project/32998/status/svg)
+# codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c11b1d6e21440adb51c1a22f13ee583)](https://www.codacy.com/gh/akkivanguu/M2_Distance_Measurement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akkivanguu/M2_Distance_Measurement&amp;utm_campaign=Badge_Grade)
 
 ### Folder Structure
 | Folder | Description |
