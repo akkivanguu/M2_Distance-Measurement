@@ -7,7 +7,7 @@ This application is based on sound wave detection. Sound waves are defined as lo
 ## Badges
 
 # Build Badge
-[![Build CI-Linux](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml)
+[![C Windows Build](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build1.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build1.yml)
 # cpp check
 [![Cppcheck](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/c-cpp.yml)
 # Codiga
