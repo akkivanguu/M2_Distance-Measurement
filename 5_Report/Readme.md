@@ -39,19 +39,16 @@ industries. The hardware part of ultrasonic sensor is interfaced with atmega328.
 *   When :Ultrasonic sensors can measure the distance to a wide range of objects regardless of shape, color or surface texture. They are also able to measure an approaching or receding object. By using “non-contact” ultrasonic sensors, distances can be measured without damage to the object.
 *   Where :The device can be used in many different fields and categories like distance calculation in construction field, robots, car sensor to avoid obstacles and many other applications.
 *   How :Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are transmitted and whenever these strike an obstacle and return back in the from of an echo. Difference of outgoing sound and returning echo gives us the distance.
-### Requirements
-### High Level Requirement
-| ID | Description | Status |
-| ----- | ----- | ----- |
-| 1. | The high-level signal is sent to 10 microseconds using Trigger | Implemented |
-| 2. | The module sends 40 KHz signals automatically and then detects whether the pulse is received or not through Echo| Implemented |
-| 3. | Capable of measuring a distance of up to 400 cm| Implemented |
-| 4. | It can be further enhanced by implementing improvements especially in its accuracy and portability | Future |
-### Low Level Requirements
-| ID | Description | Status |
-| ----- | ----- | ----- |
-| 1. | Suitable for close range detection up to ten meters | Implemented |
-| 2. | Provide multiple range measurements per second| Implemented | 
+### Folder Structure
+| Folder | Description |
+| ----- | ----- |
+| 1_Requirements | Documents detailing requirements and  research |
+| 2_Design | Documents specifying design details |
+| 3_Implementation | All code and documentation |
+| 4_TestPlanAndOutput | Documents with test plans and procedures |
+| 5_Report | Documentation of the whole Project |
+| 6_ImagesAndVideos | Output of the Project |
+
 
 ## Challenges Faced and How Was It Overcome
 
