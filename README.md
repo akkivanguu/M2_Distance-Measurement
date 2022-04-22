@@ -8,6 +8,8 @@ This application is based on sound wave detection. Sound waves are defined as lo
 
 # Build Badge
 [![Build CI-Linux](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml)
+# cpp check
+[![Cppcheck](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/c-cpp.yml)
 
 
 ### Folder Structure
