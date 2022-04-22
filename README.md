@@ -4,7 +4,10 @@
 This application is based on sound wave detection. Sound waves are defined as long-wave pressure waves in their orbits. The headings are larger than the length of the wavelength, the reflected waves are called echo. If the average audio speed is known and the time taken for the sound waves to travel the distance from source to source and back is measured, the distance from source to the subject can be accurately calculated.
 
 
+## Badges
 
+# Build Badge
+[![Build CI-Linux](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/build2.yml)
 
 
 ### Folder Structure
