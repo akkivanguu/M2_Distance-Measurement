@@ -17,6 +17,9 @@ This application is based on sound wave detection. Sound waves are defined as lo
 # codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c11b1d6e21440adb51c1a22f13ee583)](https://www.codacy.com/gh/akkivanguu/M2_Distance_Measurement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akkivanguu/M2_Distance_Measurement&amp;utm_campaign=Badge_Grade)
 
+#Valgrind
+[![Valgrind](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/valgrind.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/valgrind.yml)
+
 ### Folder Structure
 | Folder | Description |
 | ----- | ----- |
