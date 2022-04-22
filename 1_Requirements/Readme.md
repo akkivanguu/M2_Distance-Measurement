@@ -1,4 +1,5 @@
-# Distance Measurement Using Ultrasonic Sensor
+# Distance Measurement
+
 ## What is Ultrasonic sensor
 * Ultrasonic sensor is a tool that measures distance to an object using ultrasonic sound waves.
 *  The ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay information about the proximity of an object. 
