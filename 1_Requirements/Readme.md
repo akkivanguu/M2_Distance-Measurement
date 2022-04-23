@@ -8,8 +8,14 @@
  Ultrasonic sensors operate by sending sound waves at a frequency greater than the human hearing range. The sensor transducer acts as a microphone to receive and transmit ultrasonic sound. Our ultrasonic sensors, like many others, use a single transducer to transmit heart rate and echo. The sensor determines the distance to the target by measuring the time between sending and receiving the ultrasonic pulse.
 The working principle of this module is simple. It sends an ultrasonic pulse out at 40kHz through the air and if there is an obstacle or object, it will jump back into the sensor. By calculating travel time and sound speed, distance can be calculated. Ultrasonic sensors are a good solution for the detection of clear objects. By measuring the liquid level, applications that use infrared sensors, for example, struggle with this specific use due to the directed light. In order to detect presence, ultrasonic sensors detect objects regardless of color, surface, or material (unless the material is as soft as wool, as it can absorb sound.
 ## Components Required
-##### Hardware: ATmega328, Power supply (5v), LCD hd_44780_E,  1KΩ resistor (pieces) , HC-SR04 sensor.
-##### Software: Simulide, Visual Studios.
+## Components
+Hardware: ATmega328, Power supply (5v), LCD hd_44780_E, 1KΩ resistor (pieces) , HC-SR04 sensor.
+* Atmega328 :-The ATMEGA328P-PN is a popular microcontroller due to it being a major component in the Arduino board products. The ATMEGA328P-PN is the 8-bit RISC heart of the Arduino Uno and Nano, with a maximum clock frequency of 20MHz, 32KB program FLASH, and 2KB of RAM.
+* Power Supply(5v):- its an fixed voltage to tigger potentiometer.
+* Resistor :-  A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
+* HC-SR04 sensor :- The HC-SR04 Ultrasonic Distance Sensor is a sensor used for detecting the distance to an object using sonar. It's ideal for any robotics projects your have which require you to avoid objects, by detecting how close they are you can steer away from them!
+
+Software : Vscode(code editor with support for development operations like debugging, task running, and version control) ,Simulide( for simulation of circuit).
 
 
 ## SWOT Analysis
