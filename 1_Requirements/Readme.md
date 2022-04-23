@@ -7,6 +7,10 @@
 ### How Ultrasonic sensor works
  Ultrasonic sensors operate by sending sound waves at a frequency greater than the human hearing range. The sensor transducer acts as a microphone to receive and transmit ultrasonic sound. Our ultrasonic sensors, like many others, use a single transducer to transmit heart rate and echo. The sensor determines the distance to the target by measuring the time between sending and receiving the ultrasonic pulse.
 The working principle of this module is simple. It sends an ultrasonic pulse out at 40kHz through the air and if there is an obstacle or object, it will jump back into the sensor. By calculating travel time and sound speed, distance can be calculated. Ultrasonic sensors are a good solution for the detection of clear objects. By measuring the liquid level, applications that use infrared sensors, for example, struggle with this specific use due to the directed light. In order to detect presence, ultrasonic sensors detect objects regardless of color, surface, or material (unless the material is as soft as wool, as it can absorb sound.
+## Components Required
+##### Hardware: ATmega328, Power supply (5v), LCD hd_44780_E,  1KΩ resistor (pieces) , HC-SR04 sensor.
+##### Software: Simulide, Visual Studios.
+
 
 ## SWOT Analysis
 ### Strengths
