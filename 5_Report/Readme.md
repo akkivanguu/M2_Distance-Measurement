@@ -22,6 +22,14 @@ For more information on the ultrasonic HC-SR04 module and how it is used, see th
 ## Introduction
 In this project, we are going to interface Ultrasonic sensor HC-SR04 with Atmega328 and LCD Display. The ultrasonic sensor is used to measure the distance. It acts as a Sonar. It sends an ultrasonic wave of a certain frequency that comes back after hitting the object and calculates the time traveled by it. This distance measurement system can be widely used as range meters and as proximity detectors in
 industries. The hardware part of ultrasonic sensor is interfaced with atmega328.
+## Components
+Hardware: ATmega328, Power supply (5v), LCD hd_44780_E, 1KΩ resistor (pieces) , HC-SR04 sensor.
+* Atmega328 :-The ATMEGA328P-PN is a popular microcontroller due to it being a major component in the Arduino board products. The ATMEGA328P-PN is the 8-bit RISC heart of the Arduino Uno and Nano, with a maximum clock frequency of 20MHz, 32KB program FLASH, and 2KB of RAM.
+* Power Supply(5v):- its an fixed voltage to tigger potentiometer.
+* Resistor :-  A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
+* HC-SR04 sensor :- The HC-SR04 Ultrasonic Distance Sensor is a sensor used for detecting the distance to an object using sonar. It's ideal for any robotics projects your have which require you to avoid objects, by detecting how close they are you can steer away from them!
+
+Software : Vscode(code editor with support for development operations like debugging, task running, and version control) ,Simulide( for simulation of circuit).
 ## Research
 - The Ultrasonic Sensor sends out a high-frequency sound pulse and then times how long it takes for the echo of the sound to reflect back. The sensor has 2 openings on its front. One opening transmits ultrasonic waves, (like a tiny speaker), the other receives them, (like a tiny microphone).
 
