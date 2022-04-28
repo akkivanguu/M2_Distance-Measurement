@@ -29,13 +29,3 @@ This application is based on sound wave detection. Sound waves are defined as lo
 
 # Valgrind
 [![Valgrind](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/valgrind.yml/badge.svg)](https://github.com/akkivanguu/M2_Distance_Measurement/actions/workflows/valgrind.yml)
-
-### Folder Structure
-| Folder | Description |
-| ----- | ----- |
-| 1_Requirements | Documents detailing requirements and  research |
-| 2_Design | Documents specifying design details |
-| 3_Implementation | All code and documentation |
-| 4_TestCases | Documents with test plans and procedures |
-| 5_Report | Documentation of the whole Project |
-| 6_Output| Output of the Project |
