@@ -38,4 +38,4 @@ This application is based on sound wave detection. Sound waves are defined as lo
 | 3_Implementation | All code and documentation |
 | 4_TestCases | Documents with test plans and procedures |
 | 5_Report | Documentation of the whole Project |
-| 6_ImagesAndVideos | Output of the Project |
+| 6_Output| Output of the Project |
